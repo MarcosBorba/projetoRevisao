@@ -17,6 +17,7 @@ public class RevisaoAulaDois {
     public static void main(String[] args) {
         HelloPeople ola = new HelloPeople();
         System.out.println(ola.printNome("Marcos"));
+        System.out.println(ola.printNome("Joao"));
     }
     
 }
